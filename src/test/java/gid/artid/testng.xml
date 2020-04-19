@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suitea">
+  <test name="Test">
+  <!-- 	<parameter name="browse" value="Firefox"/> -->
+  
+    <classes>
+   
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

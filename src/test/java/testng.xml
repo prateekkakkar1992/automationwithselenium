@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suitea">
+
+  <test name="Test">
+  <!-- 	<parameter name="browse" value="Firefox"/> -->
+  	<!-- <groups>
+  	<run>
+  	<include name ="bbb"></include>
+  	<include name ="aaa"></include>
+  	</run>
+  	
+  	</groups> -->
+    <classes>
+      <class name="gid.artid.NewTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
